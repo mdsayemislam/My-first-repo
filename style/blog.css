@@ -1,0 +1,15 @@
+li{
+    color: brown;
+    margin: 50px;
+    /* border: 100px solid; */
+}
+img{
+    width: 200px;
+    height: 100px;
+    margin: 20;
+   
+}
+img{
+    border: 10px solid chocolate;
+    /* padding: 50px; */
+}
